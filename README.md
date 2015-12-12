@@ -60,6 +60,8 @@ GameObject > 3D Object > Cube
 
 ## モデルを放り込む
 
+前回参加してない人は[ここから fbx をダウンロード](https://github.com/noir-neo/mdstu-unity/raw/master/Assets/Resources/Models/Plane.fbx)
+
 1. `Assets/Resources/Models` を作る
 2. Project ビューに fbx をドラッグアンドドロップ
 3. Hierarchy ビューもしくは Scene ビューにドラッグアンドドロップ
